@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/kanbanboard-quicksell/static/css/main.ed8dbc0e.css",
+    "main.js": "/kanbanboard-quicksell/static/js/main.31f9c838.js",
+    "static/js/787.9e556fd3.chunk.js": "/kanbanboard-quicksell/static/js/787.9e556fd3.chunk.js",
+    "static/media/todo.svg": "/kanbanboard-quicksell/static/media/todo.1df3555b6a23042a63a33fa7c096fb47.svg",
+    "static/media/cancelled.svg": "/kanbanboard-quicksell/static/media/cancelled.ac241bb66627ab0575daa15f0ea986d7.svg",
+    "static/media/four.svg": "/kanbanboard-quicksell/static/media/four.3e1dc3bd2512f5676c1894f878d704ea.svg",
+    "static/media/backlog.svg": "/kanbanboard-quicksell/static/media/backlog.c8870cc9c075f1f8c8ddc0a7f29f4004.svg",
+    "static/media/progress.svg": "/kanbanboard-quicksell/static/media/progress.69408121df32f45ff9686bb6a14573d4.svg",
+    "static/media/zero.svg": "/kanbanboard-quicksell/static/media/zero.0612b85265f84af8d2fb8dd5fac22450.svg",
+    "static/media/two.svg": "/kanbanboard-quicksell/static/media/two.3b73d8fc8ec0afa891c841cf4ecaa8b8.svg",
+    "static/media/three.svg": "/kanbanboard-quicksell/static/media/three.6f0c7566f6651e1257845a7752e9997b.svg",
+    "index.html": "/kanbanboard-quicksell/index.html",
+    "static/media/one.svg": "/kanbanboard-quicksell/static/media/one.06a63d6d1ae108758d9b86a047febb18.svg",
+    "static/media/done.svg": "/kanbanboard-quicksell/static/media/done.4ecb9157428f548b8fe2fd3cebf1b2eb.svg",
+    "static/media/plusSign.svg": "/kanbanboard-quicksell/static/media/plusSign.a6e77269fd32b7d4e0f0657244195c60.svg",
+    "static/media/threeDots.svg": "/kanbanboard-quicksell/static/media/threeDots.44f1a6cb299f0f38041853f0a139352b.svg",
+    "static/media/Tuning.svg": "/kanbanboard-quicksell/static/media/Tuning.60e58550d592097aa6f7865269c844d4.svg",
+    "static/media/Down.svg": "/kanbanboard-quicksell/static/media/Down.1d0cf6ea731625d136ef60f7a594b7ce.svg",
+    "main.ed8dbc0e.css.map": "/kanbanboard-quicksell/static/css/main.ed8dbc0e.css.map",
+    "main.31f9c838.js.map": "/kanbanboard-quicksell/static/js/main.31f9c838.js.map",
+    "787.9e556fd3.chunk.js.map": "/kanbanboard-quicksell/static/js/787.9e556fd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed8dbc0e.css",
+    "static/js/main.31f9c838.js"
+  ]
+}
